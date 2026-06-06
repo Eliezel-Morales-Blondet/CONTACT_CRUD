@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="contact_crud.client/contact_crud.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CONTACT_CRUD.Server/CONTACT_CRUD.Server.csproj" />
+</Solution>
